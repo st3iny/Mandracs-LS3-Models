@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"		"ls3mandrac'smodel"
+	"version"	"1.0"
+	"author_name"	"mandrac, ccp"
+	"info"		"Life Support models"
+}
